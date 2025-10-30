@@ -1,1 +1,1 @@
-worker: python book_bot.py
+python-3.11.x
